@@ -3,10 +3,10 @@
 Graduation Project – Data Science
 
 # Students:
-Hamzah Drawsheh
-Mahde Hanandeh
-Mohammad Othman
-Jad Awadallah
+Hamzah Drawsheh 
+/ Mahde Hanandeh 
+/ Mohammad Othman 
+/ Jad Awadallah
 
 ## Project Description
 A web-based platform that connects students, companies, and academic supervisors
