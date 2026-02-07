@@ -1,1 +1,8 @@
-This folder contains the AI models code of the Internship Platform.
+## AI Module
+
+This module handles company ranking and recommendation logic.
+
+Responsibilities:
+- Ranking algorithms
+- Chatbot logic
+- Data analysis
