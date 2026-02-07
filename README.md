@@ -1,10 +1,16 @@
 # Internship Recommendation Platform
 
-Graduation Project – Data Science & AI
+Graduation Project – Data Science
+
+# Students:
+Hamzah Drawsheh
+Mahde Hanandeh
+Mohammad Othman
+Jad Awadallah
 
 ## Project Description
 A web-based platform that connects students, companies, and academic supervisors
-to manage internship applications using intelligent ranking and recommendation.
+to manage and facilitate internship applications using intelligent ranking and recommendation.
 
 ## Project Structure
 - frontend/: User interface
