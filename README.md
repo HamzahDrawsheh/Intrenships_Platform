@@ -9,8 +9,10 @@ Graduation Project – Data Science
 - Jad Awadallah
 
 ## Project Description
-A web-based platform that connects students, companies, and academic supervisors
-to manage and facilitate internship applications using intelligent ranking and recommendation.
+The Internship Matching System is a web-based platform designed to facilitate the process of internship 
+placement for Data Science and Artificial Intelligence students. The goal of the system was to bridge the 
+gap between students, companies, and academic supervisors by providing a centralized and organized  
+environment for internship applications and monitoring. 
 
 ## Project Structure
 - frontend/: User interface
